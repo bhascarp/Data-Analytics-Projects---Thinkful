@@ -1,3 +1,3 @@
 # Data-Analytics-Capstone Projects---Thinkful
 
-1. Lariat Fleet Planning
+Capstone Project 1. Lariat Fleet Planning
